@@ -1,0 +1,14 @@
+formulas para calcular peso ideal IBW
+Hombre = 56.2 +1.41*(Altura (cm)/2.54 -60)
+Mujer = 53.1 +1.36 *(Altura (cm)/2.54 -60)) 
+
+formula Calorías quemadas  
+(Tiempo actividad (min) * MET * Peso
+(Kg)) /200 
+
+porcentaje del peso grasa 
+Hombres adultos = 1.20 * IMC + 0.23 * Edad - 16.2
+Mujeres adultas = 1.20 * IMC + 0.23 * Edad - 5.4 
+
+
+IMC = peso (Kg) / Altura (m)**2
